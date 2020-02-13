@@ -1,0 +1,5 @@
+administrator.dashboard.form.message = Número total de compañía agrupada por sectores
+administrator.dashboard.form.message2 = Número total de inversores agrupados por sectores
+administrator.dashboard.form.message3 = Ratio de trabajos agrupados por status
+administrator.dashboard.form.message4 = Ratio de aplicacion agrupadas por status en porcentaje
+administrator.dashboard.form.message5 = Una serie temporal con el número de solicitudes aceptadas, rechazadas y pendientes por día durante las últimas cuatro semanas

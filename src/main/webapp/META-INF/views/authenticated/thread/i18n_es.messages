@@ -1,0 +1,22 @@
+authenticated.thread.list.label.title = Título
+
+authenticated.thread.form.label.moment = Fecha
+authenticated.thread.form.label.title = Título
+
+
+authenticated.thread.form.button.return = Volver
+authenticated.thread.form.button.message = Messages
+authenticated.thread.form.button.participation.list = Usuarios
+authenticated.participation.form.button.create= Añadir usuarios
+authenticated.message.form.button.create= Crear mensaje
+
+authenticated.thread.form.label.messages.moment = Fecha mensaje
+authenticated.thread.form.label.messages.body = Cuerpo mensaje
+authenticated.thread.form.label.messages.title= Titulo del mensaje
+authenticated.thread.form.label.messages.author = Usuario 
+authenticated.thread.form.label.messages = Mensajes
+authenticated.thread.form.label.messages.tags =Tags
+
+authenticated.thread.form.button.create = Crear
+
+authenticated.thread.form.error.title = Ya existe un Thread con ese nombre

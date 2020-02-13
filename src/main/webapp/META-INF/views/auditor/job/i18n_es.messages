@@ -1,0 +1,29 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+auditor.job.list.label.reference = Número de referencia
+auditor.job.list.label.title = Título
+auditor.job.list.label.deadline = Caducidad
+
+auditor.job.form.label.reference = Número de referencia: 
+auditor.job.form.label.title = Título: 
+auditor.job.form.label.deadline = Caducidad: 
+auditor.job.form.label.salary = Salario: 
+auditor.job.form.label.description = Descripción: 
+auditor.job.form.label.moreInfo = Más información:
+auditor.job.form.label.employer = Empleador:
+auditor.job.form.button.audit-record = Records de Auditores
+auditor.job.form.button.duty = Responsabilidades
+auditor.job.form.button.return = Volver
+
+auditor.job.form.button.create-audit-record = Crear records de auditores
+auditor.job.form.button.list.audit-record = Mis records de auditores
+
+auditor.job.form.placeolder.reference = Recomendado el formato: EMP1-JOB1

@@ -1,0 +1,45 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+employer.job.list.label.reference = Reference
+employer.job.list.label.title = Title
+employer.job.list.label.deadline = Deadline
+
+employer.job.form.label.reference = Reference: 
+employer.job.form.label.title = Title: 
+employer.job.form.label.deadline = Deadline: 
+employer.job.form.label.salary = Salary: 
+employer.job.form.label.description = Description: 
+employer.job.form.label.moreInfo = More Info:
+employer.job.form.label.employer = Employer:
+employer.job.form.label.auditor = Auditor:
+employer.job.form.label.employer = Employer:
+employer.job.form.label.status = Final Mode:
+
+employer.job.form.button.audit-record = Audits Records 
+
+employer.job.form.button.create = Create
+employer.job.form.button.update = Update
+employer.job.form.button.delete = Delete
+employer.job.form.button.duty = Duties 
+employer.job.form.button.create-duty = Create Duty
+employer.job.form.button.return = Return
+
+employer.job.form.placeholder.reference = Recomended the format: EMP1-JOB1
+
+employer.job.form.error.tooClose = Deadline must be one week after the current date
+
+employer.job.form.error.zoneEurS = Only the euro, EUR or € currency is allowed
+employer.job.form.error.sumDuty = The sum of the percentages of the Duties must sum 1
+employer.job.form.error.reference = Existing reference, try another
+employer.job.form.error.delete = You cannot delete a Job if you have Applications
+employer.job.form.error.spamWordsTitle = The title contains Spam Words
+employer.job.form.error.spamWordsDescription = The description contains Spam Words
+employer.job.form.error.hasApplicationOrAuditRecord = The Job has associated Applications or Audit Records

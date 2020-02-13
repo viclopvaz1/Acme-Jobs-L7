@@ -1,0 +1,21 @@
+
+administrator.investor-record.label.investor = Investor:
+administrator.investor-record.label.sector = Sector of Investor:
+administrator.investor-record.label.statement = Statement of Investor:
+administrator.investor-record.label.star = Number of starts (between 1 and 5):
+
+administrator.investor-record.form.label.investor = Investor:
+administrator.investor-record.form.label.sector = Sector of Investor:
+administrator.investor-record.form.label.statement = Statement of Investor:
+administrator.investor-record.form.label.star = Number of starts (between 1 and 5):
+
+
+administrator.investor-record.form.buttom.update =Update
+administrator.investor-record.form.buttom.delete = Delete
+administrator.investor-record.form.buttom.create = Create
+administrator.investor-record.form.button.return = Return
+
+administrator.investor-record.list.label.investor = Investor
+administrator.investor-record.list.label.sector = Sector
+administrator.investor-record.list.label.statement = Statement of Investor:
+administrator.investor-record.list.label.star = Number of starts (between 1 and 5):

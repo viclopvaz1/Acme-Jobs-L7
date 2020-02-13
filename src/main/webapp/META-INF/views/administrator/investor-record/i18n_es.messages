@@ -1,0 +1,21 @@
+
+administrator.investor-record.label.investor = Inversor:
+administrator.investor-record.label.sector = Sector del Inversor:
+administrator.investor-record.label.statement = Declaraciones del Inversor:
+administrator.investor-record.label.star = Número de Estrellas (entre 1 y 5):
+
+administrator.investor-record.form.label.investor = Inversor:
+administrator.investor-record.form.label.sector = Sector del Inversor:
+administrator.investor-record.form.label.statement = Declaraciones del Inversor:
+administrator.investor-record.form.label.star = Número de Estrellas (entre 1 y 5):
+
+administrator.investor-record.form.buttom.update = Actualizar
+administrator.investor-record.form.buttom.delete = Borrar
+administrator.investor-record.form.buttom.create = Crear
+administrator.investor-record.form.button.return = Volver
+
+
+administrator.investor-record.list.label.investor = Inversor
+administrator.investor-record.list.label.sector = Sector
+administrator.investor-record.list.label.statement = Statement
+administrator.investor-record.list.label.star = Número de Estrellas (entre 1 y 5):

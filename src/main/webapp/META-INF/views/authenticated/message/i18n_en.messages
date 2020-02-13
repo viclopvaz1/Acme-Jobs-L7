@@ -1,0 +1,22 @@
+authenticated.message.list.label.title = Title
+authenticated.message.list.label.body = Body
+authenticated.message.list.label.tags = Tags
+
+
+authenticated.message.form.label.title = Title
+authenticated.message.form.label.moment = Date
+
+authenticated.message.form.button.return = Return
+
+authenticated.message.form.label.moment = message moment
+authenticated.message.form.label.body = Body
+authenticated.message.form.label.title= Title
+authenticated.message.form.label.user.identity.fullName = User
+authenticated.message.form.label.check = confirm
+authenticated.message.error.check = You must confirm
+
+authenticated.message.form.label.tags =Tags
+
+employer.job.form.error.spamWordsTitle = There are some spam's words in title
+employer.job.form.error.spamWordsBody = There are some spam's words in body
+employer.job.form.error.spamWordsTags = There are some spam's words in tag

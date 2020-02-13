@@ -1,0 +1,32 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+sponsor.comercial-banner.form.picture = Picture:
+sponsor.comercial-banner.form.slogan = Slogan:
+sponsor.comercial-banner.form.targetUrl = Target URL:
+sponsor.comercial-banner.form.creditCard = Credit Card:
+sponsor.comercial-banner.form.name = Name:
+sponsor.comercial-banner.form.network = Brand:
+sponsor.comercial-banner.form.monthExp = Month Expire:
+sponsor.comercial-banner.form.yearExp = Year Expire:
+sponsor.comercial-banner.form.cvv = CVV:
+sponsor.comercial-banner.form.sponsor = Sponsor:
+
+sponsor.comercial-banner.label.picture = Picture
+sponsor.comercial-banner.label.slogan = Slogan
+
+sponsor.comercial-banner.form.button.return = Return
+sponsor.comercial-banner.form.button.create = Create
+sponsor.comercial-banner.form.button.update = Update
+sponsor.comercial-banner.form.button.delete = Delete
+
+sponsor.comercial-banner.form.error.monthExp = The Month Expire must be greater than or equal to the current month, if it is the same year.
+sponsor.comercial-banner.form.error.yearExp = The Year Month must be greater than or equal to the current year.
+sponsor.comercial-banner.form.error.spamWordsSlogan = The Slogan contains Spam Words

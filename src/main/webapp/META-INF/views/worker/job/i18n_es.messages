@@ -1,0 +1,30 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+worker.job.list.label.reference = Número de referencia
+worker.job.list.label.title = Título
+worker.job.list.label.deadline = Caducidad
+worker.job.list.label.status = Estado
+
+worker.job.form.label.reference = Número de referencia: 
+worker.job.form.label.title = Título: 
+worker.job.form.label.deadline = Caducidad: 
+worker.job.form.label.salary = Salario: 
+worker.job.form.label.description = Descripción: 
+worker.job.form.label.moreInfo = Más información: 
+worker.job.form.label.employer = Empleador:
+worker.job.form.label.auditor = Auditor:
+worker.job.form.button.audit-record = Records de Auditores
+worker.job.form.button.duty = Responsabilidades 
+worker.job.form.button.return = Volver
+
+worker.job.form.button.createApplication = Solicitar
+
+worker.job.form.placeolder.reference = Recomendado el formato: EMP1-JOB1

@@ -1,0 +1,44 @@
+
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+employer.job.list.label.reference = Número de referencia
+employer.job.list.label.title = Título
+employer.job.list.label.deadline = Caducidad
+
+employer.job.form.label.reference = Número de referencia: 
+employer.job.form.label.title = Título: 
+employer.job.form.label.deadline = Caducidad: 
+employer.job.form.label.salary = Salario: 
+employer.job.form.label.description = Descripción: 
+employer.job.form.label.moreInfo = Más información: 
+employer.job.form.label.status = Modo Final:
+employer.job.form.label.employer = Empleador:
+
+employer.job.form.button.audit-record = Records de Auditores
+
+employer.job.form.button.create = Crear
+employer.job.form.button.update = Actualizar
+employer.job.form.button.delete = Borrar
+employer.job.form.button.duty = Responsabilidades 
+employer.job.form.button.create-duty = Crear Responsabilidad
+employer.job.form.button.return = Volver
+
+employer.job.form.placeholder.reference = Recomendado el formato: EMP1-JOB1
+
+employer.job.form.error.tooClose = La Fecha de Fin debe estar una semana posterior a la fecha actual
+
+employer.job.form.error.zoneEurS = Solo se permite la moneda euro, EUR o €
+employer.job.form.error.sumDuty = La suma de los porcentajes de las Responsabilidades deben sumar 1
+employer.job.form.error.reference = Referencia existente, pruebe con otra
+employer.job.form.error.delete = No se puede eliminar un Trabajo si tiene Solicitudes
+employer.job.form.error.spamWordsTitle = El titulo contiene palabras de Spam
+employer.job.form.error.spamWordsDescription = La descripcion contiene palabras de Spam
+employer.job.form.error.hasApplicationOrAuditRecord = El Trabajo tiene Solicitudes o Records de Auditores asociadas

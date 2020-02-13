@@ -1,0 +1,8 @@
+authenticated.sponsor.form.title.create = Conviértete en un trabajador
+authenticated.sponsor.form.title.update = Actualizar los datos de sus trabajadores
+
+authenticated.sponsor.form.label.organisationName = Nombre de la Organización:
+
+authenticated.sponsor.form.button.create = Crear
+authenticated.employer.form.button.update = Actualizar
+authenticated.sponsor.form.button.return = Volver

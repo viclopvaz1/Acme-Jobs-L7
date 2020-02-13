@@ -1,0 +1,17 @@
+authenticated.job.list.label.title = Título
+authenticated.job.list.label.salary = Salario
+authenticated.job.list.label.deadline = Caducidad
+authenticated.job.list.label.description = Descripción
+
+authenticated.job.form.label.reference = Referencia
+authenticated.job.form.label.title = Título
+authenticated.job.form.label.deadline = Caducidad
+authenticated.job.form.label.salary = Salario
+authenticated.job.form.label.description = Descripcion
+authenticated.job.form.label.moreInfo = Más Información
+authenticated.job.form.label.status = Modo Final
+authenticated.job.form.label.employer = Empleador
+
+authenticated.job.form.button.audit-record = Records de Auditores
+authenticated.job.form.button.duty = Responsabilidades
+authenticated.job.form.button.return = Volver

@@ -1,0 +1,5 @@
+administrator.dashboard.form.message = Total number of companies grouped by sectors
+administrator.dashboard.form.message2 = Total number of investors grouped by sectors
+administrator.dashboard.form.message3 = Ratio of jobs grouped by status
+administrator.dashboard.form.message4 = Ratio of applications grouped by status in percentage
+administrator.dashboard.form.message5 = A time series with the number of accepted, rejected and pending applications per day during the last four weeks

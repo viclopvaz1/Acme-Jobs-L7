@@ -1,0 +1,22 @@
+authenticated.thread.list.label.title = Título
+
+authenticated.thread.form.label.moment = Fecha
+authenticated.thread.form.label.title = Título
+
+
+authenticated.thread.form.button.return = Volver
+authenticated.participation.form.button.return = Volver
+authenticated.thread.form.button.message = crear
+authenticated.participation.form.label.authenticated= Nombre de usuario
+authenticated.participation.form.button.create= Añadir
+authenticated.participation.form.button.delete= Borrar
+authenticated.participation.list.label.authenticated = Nombre de usuario
+authenticated.participant.error.name= El usuario ya esta añadido
+
+
+authenticated.thread.form.label.messages.moment = Fecha mensaje
+authenticated.thread.form.label.messages.body = Cuerpo mensaje
+authenticated.thread.form.label.messages.title= Titulo del mensaje
+authenticated.thread.form.label.messages.author = Usuario 
+authenticated.thread.form.label.messages = Mensajes
+authenticated.thread.form.label.messages.tags =Tags
